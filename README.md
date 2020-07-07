@@ -1,2 +1,0 @@
-# PythonHW
-PyBank and PyPoll
